@@ -1,0 +1,6 @@
+node_modules
+.direnv
+flake.lock
+pnpm-lock.yaml
+.DS_Store
+flake.lock
