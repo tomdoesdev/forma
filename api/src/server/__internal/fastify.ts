@@ -1,5 +1,5 @@
 import Fastify from "fastify";
-import { Routes } from "@pkg/server/routing";
+import { Routes } from "../routing";
 
 export function fn_bootstrapFastify(routes: Routes) {
   const api = Fastify({
